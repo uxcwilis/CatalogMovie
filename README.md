@@ -19,4 +19,13 @@ tw185 pada link di atas merupakan ukuran poster. Tersedia beberapa ukuran yang d
 
 Penjelasan mengenai poster dapat dilihat pada halaman ini
 https://developers.themoviedb.org/3/configuration/get-api-configuration
-    
+ 
+Halaman Utama
+![1](https://user-images.githubusercontent.com/646431/42681774-d66bd36c-86b2-11e8-8228-ae399f3bc018.JPG)
+
+Halaman Tampilan RecyclerView dari koleksi movies berdasarkan rate 
+![2](https://user-images.githubusercontent.com/646431/42681776-d69b7f9a-86b2-11e8-8e5e-7393feb4c28d.JPG)
+
+Halaman Search Moviews
+![3](https://user-images.githubusercontent.com/646431/42681773-d63f1cc8-86b2-11e8-840c-ea0152599791.JPG)
+
